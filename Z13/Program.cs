@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-
-
 Console.WriteLine("Введите число");
 int num = int.Parse(Console.ReadLine()!); 
 
