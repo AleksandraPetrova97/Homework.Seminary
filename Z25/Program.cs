@@ -9,10 +9,6 @@ int getUserNumber(string message)
     return UserNumber;
 }
 
-int numA = getUserNumber("Введите число А");
-int numB = getUserNumber("Введите число B");
-
-
 int getdegreeOfRange(int numA, int numB)
 {
     int degree = numA;
@@ -23,5 +19,7 @@ int getdegreeOfRange(int numA, int numB)
     return degree;
 } 
 
+int numA = getUserNumber("Введите число А");
+int numB = getUserNumber("Введите число B");
 int degree = getdegreeOfRange(numA, numB);
-Console.WriteLine($"{degree}");
+Console.Write($"Число А в степени числа Б = {degree}");
