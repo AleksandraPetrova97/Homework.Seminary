@@ -4,7 +4,7 @@
 int getUserValue(string message)
 {
     Console.WriteLine(message);
-    int result = int.Parse(Console.ReadLine());
+    int result = int.Parse(Console.ReadLine()!);
     return result;
 }
 double getDistanceCoordinate(int userAX, int userAY, int userBX, int userBY, int userСX, int userСY)

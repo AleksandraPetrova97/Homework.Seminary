@@ -4,7 +4,7 @@
 int getUserNumber(string message)
 {
     Console.WriteLine(message);
-    int UserNumber = int.Parse(Console.ReadLine());
+    int UserNumber = int.Parse(Console.ReadLine()!);
     return UserNumber;
 }
 

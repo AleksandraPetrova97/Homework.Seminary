@@ -14,7 +14,7 @@ int [] Fillarray (int length, int start, int end)
 int getUserData(string message)
 {
     Console.WriteLine(message);
-    int UserData = int.Parse(Console.ReadLine());
+    int UserData = int.Parse(Console.ReadLine()!);
     return UserData;
 }
 
