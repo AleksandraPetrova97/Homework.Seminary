@@ -1,0 +1,15 @@
+C:\Мои репозитории\Homework.Seminary\Z43\bin\Debug\net6.0\Z43.exe
+C:\Мои репозитории\Homework.Seminary\Z43\bin\Debug\net6.0\Z43.deps.json
+C:\Мои репозитории\Homework.Seminary\Z43\bin\Debug\net6.0\Z43.runtimeconfig.json
+C:\Мои репозитории\Homework.Seminary\Z43\bin\Debug\net6.0\Z43.dll
+C:\Мои репозитории\Homework.Seminary\Z43\bin\Debug\net6.0\Z43.pdb
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.csproj.AssemblyReference.cache
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.AssemblyInfoInputs.cache
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.AssemblyInfo.cs
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.csproj.CoreCompileInputs.cache
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.dll
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\refint\Z43.dll
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.pdb
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\Z43.genruntimeconfig.cache
+C:\Мои репозитории\Homework.Seminary\Z43\obj\Debug\net6.0\ref\Z43.dll
