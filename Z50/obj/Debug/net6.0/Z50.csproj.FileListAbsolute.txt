@@ -1,0 +1,15 @@
+C:\Мои репозитории\Homework.Seminary\Z50\bin\Debug\net6.0\Z50.exe
+C:\Мои репозитории\Homework.Seminary\Z50\bin\Debug\net6.0\Z50.deps.json
+C:\Мои репозитории\Homework.Seminary\Z50\bin\Debug\net6.0\Z50.runtimeconfig.json
+C:\Мои репозитории\Homework.Seminary\Z50\bin\Debug\net6.0\Z50.dll
+C:\Мои репозитории\Homework.Seminary\Z50\bin\Debug\net6.0\Z50.pdb
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.csproj.AssemblyReference.cache
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.AssemblyInfoInputs.cache
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.AssemblyInfo.cs
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.csproj.CoreCompileInputs.cache
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.dll
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\refint\Z50.dll
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.pdb
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\Z50.genruntimeconfig.cache
+C:\Мои репозитории\Homework.Seminary\Z50\obj\Debug\net6.0\ref\Z50.dll
