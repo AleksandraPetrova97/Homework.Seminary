@@ -53,17 +53,18 @@ void print2DArray(int [,] array)
 }
 
 
-int FindNUmber(int n, int m, int i, int j, int [,] array)
+int FindNUmber(int n, int m, int i, int j, int[,] array)
 {
-    if(i>n && j>m)
-    {
-        Console.WriteLine($"Такого числа нет");
-    }
-    else
-    {
-        Console.WriteLine($"Число на позициях {i} и {j} в массиве = {array[i,j]}");
-    }
-    return array[i,j];
+if (i > n && j > m)
+{
+Console.WriteLine($"Такого числа нет");
+}
+else
+{
+Console.WriteLine($"Число на позициях {i} и {j} в массиве = {array[i, j]}");
+return array[i, j];
+}
+return 0;
 }
 
 int n = GetDataFromUser("Введите число строк");
