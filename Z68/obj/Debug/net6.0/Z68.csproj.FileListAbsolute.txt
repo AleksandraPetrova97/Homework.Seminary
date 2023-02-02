@@ -1,0 +1,15 @@
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.csproj.AssemblyReference.cache
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.AssemblyInfoInputs.cache
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.AssemblyInfo.cs
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.csproj.CoreCompileInputs.cache
+C:\Мои репозитории\Homework.Seminary\Z68\bin\Debug\net6.0\Z68.exe
+C:\Мои репозитории\Homework.Seminary\Z68\bin\Debug\net6.0\Z68.deps.json
+C:\Мои репозитории\Homework.Seminary\Z68\bin\Debug\net6.0\Z68.runtimeconfig.json
+C:\Мои репозитории\Homework.Seminary\Z68\bin\Debug\net6.0\Z68.dll
+C:\Мои репозитории\Homework.Seminary\Z68\bin\Debug\net6.0\Z68.pdb
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.dll
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\refint\Z68.dll
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.pdb
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\Z68.genruntimeconfig.cache
+C:\Мои репозитории\Homework.Seminary\Z68\obj\Debug\net6.0\ref\Z68.dll
